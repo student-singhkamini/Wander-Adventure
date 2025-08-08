@@ -1,4 +1,4 @@
-# 🌍 WanderAdventure – An Airbnb-Inspired Travel Listing App
+# 🌍 WanderAdventure – An Airbnb-Inspired Travel Listing Web App
 
 **WanderAdventure** is a full-stack web application for travelers and hosts. Users can discover, list, and manage adventurous stays, inspired by the functionality and design of Airbnb.
 
